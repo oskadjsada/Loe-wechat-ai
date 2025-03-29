@@ -4,8 +4,7 @@
 包优化，包服务训练【本人微信：3484733722】
 【💡关注公众号：小峰科技网络💡】
 [注意:服务器使用阿里云的ECS选择香港服务器]
-
-【详细部署教程往下看】
+                                          【详细部署教程往下看】
 ![7c8576aaea0a5965ca49b71a07a3cbc](https://github.com/user-attachments/assets/18e7082f-f7c2-4e9f-bbd1-89268407d5c5)
 # WeChat AI 助手
 
