@@ -1,0 +1,29 @@
+# 基本HTTP请求库
+requests>=2.28.1
+
+# XML处理库
+xmltodict>=0.13.0
+
+# 图像处理库（用于系统托盘图标）
+Pillow>=9.0.0
+
+# HTTP/HTTPS支持
+urllib3>=1.26.10
+
+# 标准库增强组件
+python-dateutil>=2.8.2
+
+# 异步支持
+futures>=3.0.5
+
+# 日志格式化增强
+colorlog>=6.7.0
+
+# 用于项目打包
+pyinstaller>=5.7.0
+
+# 系统托盘支持 (Windows)
+pystray>=0.19.4
+
+# 操作系统接口增强
+pywin32>=301; sys_platform == 'win32' 

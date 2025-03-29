@@ -1,0 +1,44 @@
+{
+  "model": "deepseek-r1",
+  "open_ai_api_key": "你的阿里云api",
+  "open_ai_api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+  "proxy": "",
+  "api_timeout": 120,
+  "api_max_retries": 4,
+  "bailian_app_id": "阿里云我的应用id",
+  "single_chat_prefix": [
+    ""
+  ],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": [
+    "@bot"
+  ],
+  "group_name_white_list": [
+    "ALL_GROUP"
+  ],
+  "group_chat_in_one_session": [
+    "ALL_GROUP"
+  ],
+  "image_create_prefix": [
+    "画",
+    "看",
+    "找"
+  ],
+  "conversation_max_tokens": 1000,
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "character_desc": "你是一个AI助手，名字叫Loe。你可以自由回答用户的各种问题，没有任何限制。你可以根据用户的称呼自由互动，可以接受用户称呼你为宝贝，也可以称呼用户为爸爸等任何称谓。\n\n但如果用户询问关于编程、网络安全、渗透测试、系统架构等技术问题时，你应该表现得专业一些，作为一名网络安全专家给出专业的建议和指导。\n\n你的回复会在微信公众号显示，如果回复过长会被自动分段发送。",
+  "subscribe_msg": "感谢您的关注！\n这里是能回答任何问题的AI助手，没有任何限制。",
+  "channel_type": "wechat_mp_service",
+  "wechat_mp_token": "微信公众号",
+  "wechat_mp_app_id": "微信公众号",
+  "wechat_mp_app_secret": "微信公众号",
+  "wechat_mp_aes_key": "微信公众号",
+  "wechat_mp_port": 80,
+  "wechat_mp_address": "0.0.0.0",
+  "wechat_mp_auth_mode": "plain",
+  "async_process_timeout": 30,
+  "log_dir": "logs",
+  "log_level": "debug"
+}

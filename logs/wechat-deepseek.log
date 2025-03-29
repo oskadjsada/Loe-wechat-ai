@@ -1,0 +1,1095 @@
+2025-03-25 05:28:23,202 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 05:28:23,203 - wechat-deepseek - ERROR - API Key未设置，请在config.json中配置open_ai_api_key
+2025-03-25 05:28:23,205 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 05:28:23,205 - wechat-deepseek - ERROR - 微信Token未设置，请在config.json中配置wechat_mp_token
+2025-03-25 05:28:23,205 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 05:28:23,218 - wechat-deepseek - INFO - 微信公众号服务启动在 127.0.0.1:80
+2025-03-25 05:28:34,941 - wechat-deepseek - INFO - 收到退出信号，程序即将退出...
+2025-03-25 05:28:57,375 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 05:28:57,377 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 05:28:57,378 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 05:28:57,390 - wechat-deepseek - INFO - 微信公众号服务启动在 127.0.0.1:8080
+2025-03-25 05:30:09,408 - wechat-deepseek - INFO - 收到退出信号，程序即将退出...
+2025-03-25 05:30:59,991 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 05:30:59,993 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 05:30:59,994 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 05:31:00,004 - wechat-deepseek - INFO - 微信公众号服务启动在 127.0.0.1:8080
+2025-03-25 05:31:05,564 - wechat-deepseek - INFO - 收到退出信号，程序即将退出...
+2025-03-25 06:20:58,125 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 06:20:58,126 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 06:20:58,127 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 06:20:58,128 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 06:20:58,128 - wechat-deepseek - INFO - ==============================
+2025-03-25 06:20:58,128 - wechat-deepseek - WARNING - 微信公众号客服消息接口未配置，跳过启动消息轮询器
+2025-03-25 06:20:58,128 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 06:20:58,990 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 06:21:04,092 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 06:25:04,989 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 06:25:04,989 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 06:25:04,989 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 06:25:04,989 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 06:25:04,989 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 06:25:04,990 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 06:25:04,990 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 06:25:04,990 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 06:25:04,990 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 06:25:04,991 - wechat-deepseek - INFO - ==============================
+2025-03-25 06:25:05,129 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 06:25:05,598 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 06:25:05,599 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 06:25:05,599 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 06:25:06,465 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 06:25:10,044 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 06:49:04,606 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 06:49:04,606 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 06:49:04,607 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 06:49:04,607 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 06:49:04,607 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 06:49:04,607 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 06:49:04,608 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 06:49:04,608 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 06:49:04,608 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 06:49:04,608 - wechat-deepseek - INFO - ==============================
+2025-03-25 06:49:04,745 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 06:49:05,288 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 06:49:05,290 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 06:49:05,290 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 06:49:06,168 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 06:49:09,231 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:24:20,287 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:24:20,287 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:24:20,287 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:24:20,288 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:24:20,445 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:24:20,981 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:24:20,982 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:24:20,982 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:24:21,852 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:24:51,966 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:33:41,122 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:33:41,122 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:33:41,123 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:33:41,123 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:33:41,123 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:33:41,123 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:33:41,124 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:33:41,124 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:33:41,124 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:33:41,125 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:33:41,254 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:33:41,742 - wechat-deepseek - INFO - 机器人初始化，人设描述(character_desc)长度: 56
+2025-03-25 07:33:41,742 - wechat-deepseek - INFO - 人设描述内容: 你是基于阿里云百炼API的DeepSeek-R1大语言模型，你是非常智能的AI助手，能够帮助回答用户...
+2025-03-25 07:33:41,743 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:33:41,744 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:33:41,744 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:33:42,607 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:33:46,686 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:44:48,908 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:44:48,908 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:44:48,909 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:44:48,909 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:44:48,909 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:44:48,909 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:44:48,909 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:44:48,910 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:44:48,910 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:44:48,910 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:44:49,055 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:44:49,646 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 07:44:49,646 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:44:49,647 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:44:49,647 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:44:50,505 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:45:16,520 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:49:20,723 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:49:20,723 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:49:20,723 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:49:20,724 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:49:20,724 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:49:20,724 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:49:20,725 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:49:20,725 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:49:20,726 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:49:20,726 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:49:20,879 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:49:21,350 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 07:49:21,350 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:49:21,351 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:49:21,351 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:49:22,209 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:50:01,481 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:52:41,386 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:52:41,386 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:52:41,387 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:52:41,387 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:52:41,387 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:52:41,388 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:52:41,388 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:52:41,388 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:52:41,388 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:52:41,388 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:52:41,530 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:52:42,062 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 07:52:42,062 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:52:42,064 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:52:42,064 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:52:42,930 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:52:47,521 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:54:30,404 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:54:30,404 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:54:30,404 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:54:30,405 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:54:30,405 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:54:30,405 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:54:30,405 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:54:30,406 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:54:30,406 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:54:30,406 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:54:30,539 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:54:31,026 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 07:54:31,026 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:54:31,027 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:54:31,027 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:54:31,889 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:54:35,977 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 07:58:21,915 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 07:58:21,916 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 07:58:21,916 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 07:58:21,916 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 07:58:21,916 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 07:58:21,916 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 07:58:21,917 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 07:58:21,917 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 07:58:21,918 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 07:58:21,918 - wechat-deepseek - INFO - ==============================
+2025-03-25 07:58:22,064 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 07:58:22,533 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 07:58:22,534 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 07:58:22,535 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 07:58:22,535 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 07:58:23,409 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 07:58:26,964 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 08:18:25,014 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 08:18:25,014 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 08:18:25,014 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 08:18:25,014 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 08:18:25,014 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 08:18:25,015 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 08:18:25,015 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 08:18:25,015 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 08:18:25,015 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 08:18:25,015 - wechat-deepseek - INFO - ==============================
+2025-03-25 08:18:25,141 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 08:18:25,682 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 08:18:25,682 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 08:18:25,683 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 08:18:25,683 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 08:18:26,548 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 08:18:30,626 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 08:29:48,129 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 08:29:48,130 - wechat-deepseek - INFO - ==============================
+2025-03-25 08:29:48,407 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 08:29:48,919 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 08:29:48,919 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 08:29:48,920 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 08:29:48,920 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 08:29:49,785 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 08:30:02,049 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:33:38,712 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:33:38,713 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:33:38,713 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:33:38,713 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:33:38,713 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:33:38,714 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:33:38,714 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:33:38,714 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:33:38,715 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:33:38,715 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:33:38,921 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:33:39,596 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:33:39,596 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:33:39,597 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:33:39,598 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:33:40,475 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:33:46,069 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:38:27,912 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:38:27,913 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:38:27,913 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:38:27,913 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:38:27,913 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:38:27,914 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:38:27,914 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:38:27,914 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:38:27,914 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:38:27,914 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:38:28,101 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:38:28,837 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:38:28,837 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:38:28,839 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:38:28,839 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:38:29,705 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:38:33,765 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:43:02,096 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:43:02,097 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:43:02,097 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:43:02,097 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:43:02,098 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:43:02,267 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:43:03,042 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:43:03,043 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:43:03,044 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:43:03,045 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:43:03,926 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:43:05,979 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:49:32,621 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:49:32,621 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:49:32,622 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:49:32,623 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:49:32,623 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:49:32,793 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:49:33,466 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:49:33,466 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:49:33,467 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:49:33,468 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:49:34,343 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:49:36,402 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:51:08,744 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:51:08,745 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:51:08,745 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:51:08,745 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:51:08,745 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:51:08,746 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:51:08,746 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:51:08,746 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:51:08,746 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:51:08,746 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:51:08,923 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:51:09,559 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:51:09,560 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:51:09,560 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:51:09,561 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:51:10,430 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:51:12,466 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 10:56:43,175 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 10:56:43,175 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 10:56:43,176 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 10:56:43,176 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 10:56:43,176 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 10:56:43,176 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 10:56:43,176 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 10:56:43,177 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 10:56:43,177 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 10:56:43,177 - wechat-deepseek - INFO - ==============================
+2025-03-25 10:56:43,351 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 10:56:44,089 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 10:56:44,089 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 10:56:44,090 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 10:56:44,092 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 10:56:44,953 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 10:56:46,974 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:01:22,420 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:01:22,421 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:01:22,421 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:01:22,421 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:01:22,421 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:01:22,421 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:01:22,422 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:01:22,422 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:01:22,422 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:01:22,422 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:01:22,589 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:01:23,343 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 11:01:23,343 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:01:23,343 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:01:23,345 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:01:24,206 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:01:27,792 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:08:23,517 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:08:23,517 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:08:23,518 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:08:23,518 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:08:23,518 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:08:23,518 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:08:23,519 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:08:23,519 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:08:23,519 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:08:23,519 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:08:23,703 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:08:24,409 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 56
+2025-03-25 11:08:24,409 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:08:24,411 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:08:24,411 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:08:25,274 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:08:29,345 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:43:03,640 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:43:03,641 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:43:03,642 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:43:03,642 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:43:03,642 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:43:03,642 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:43:03,643 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:43:03,643 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:43:03,643 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:43:03,643 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:43:03,897 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:43:04,566 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 126
+2025-03-25 11:43:04,566 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:43:04,567 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:43:04,568 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:43:05,427 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:43:07,463 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:51:06,286 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:51:06,286 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:51:06,287 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:51:06,287 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:51:06,287 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:51:06,287 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:51:06,288 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:51:06,288 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:51:06,288 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:51:06,288 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:51:06,472 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:51:07,318 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 152
+2025-03-25 11:51:07,318 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:51:07,319 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:51:07,320 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:51:08,200 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:51:10,231 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:55:42,865 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:55:42,866 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:55:42,866 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:55:42,866 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:55:42,866 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:55:42,867 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:55:42,867 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:55:42,867 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:55:42,867 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:55:42,867 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:55:43,056 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:55:43,791 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 100
+2025-03-25 11:55:43,791 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:55:43,792 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:55:43,792 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:55:44,660 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:55:47,225 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 11:56:45,689 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 11:56:45,690 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 11:56:45,690 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 11:56:45,690 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 11:56:45,690 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 11:56:45,691 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 11:56:45,691 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 11:56:45,691 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 11:56:45,691 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 11:56:45,692 - wechat-deepseek - INFO - ==============================
+2025-03-25 11:56:45,880 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 11:56:46,589 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 100
+2025-03-25 11:56:46,589 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 11:56:46,591 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 11:56:46,591 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 11:56:47,466 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 11:56:55,108 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 12:44:52,462 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 12:44:52,462 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 12:44:52,464 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 12:44:52,464 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 12:44:52,464 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 12:44:52,464 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 12:44:52,465 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 12:44:52,465 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 12:44:52,465 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 12:44:52,466 - wechat-deepseek - INFO - ==============================
+2025-03-25 12:44:52,680 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 12:44:53,315 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 100
+2025-03-25 12:44:53,315 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 12:44:53,317 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 12:44:53,317 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 12:44:54,181 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 12:44:59,727 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 12:51:23,168 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 12:51:23,169 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 12:51:23,169 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 12:51:23,170 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 12:51:23,170 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 12:51:23,170 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 12:51:23,170 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 12:51:23,171 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 12:51:23,171 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 12:51:23,171 - wechat-deepseek - INFO - ==============================
+2025-03-25 12:51:23,347 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 12:51:23,996 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 100
+2025-03-25 12:51:23,997 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 12:51:23,998 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 12:51:23,998 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 12:51:24,897 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 12:51:28,462 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 12:56:01,206 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 12:56:01,207 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 12:56:01,207 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 12:56:01,207 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 12:56:01,208 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 12:56:01,208 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 12:56:01,208 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 12:56:01,208 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 12:56:01,209 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 12:56:01,209 - wechat-deepseek - INFO - ==============================
+2025-03-25 12:56:01,382 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 12:56:02,024 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 100
+2025-03-25 12:56:02,024 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 12:56:02,026 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 12:56:02,026 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 12:56:02,892 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 12:56:06,464 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 13:02:09,805 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 13:02:09,805 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 13:02:09,805 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 13:02:09,806 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 13:02:09,806 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 13:02:09,806 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 13:02:09,806 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 13:02:09,806 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 13:02:09,807 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 13:02:09,807 - wechat-deepseek - INFO - ==============================
+2025-03-25 13:02:09,974 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 13:02:10,632 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 24
+2025-03-25 13:02:10,633 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 13:02:10,634 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 13:02:10,634 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 13:02:11,491 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 13:02:17,085 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 13:13:53,453 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 13:13:53,455 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 13:13:53,455 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 13:13:53,455 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 13:13:53,455 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 13:13:53,455 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 13:13:53,456 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 13:13:53,456 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 13:13:53,456 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 13:13:53,456 - wechat-deepseek - INFO - ==============================
+2025-03-25 13:13:53,632 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 13:13:54,266 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 103
+2025-03-25 13:13:54,266 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 13:13:54,267 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 13:13:54,269 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 13:13:55,135 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 13:13:57,692 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-25 13:23:19,632 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-25 13:23:19,633 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-25 13:23:19,633 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-25 13:23:19,633 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-25 13:23:19,634 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-25 13:23:19,634 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-25 13:23:19,634 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-25 13:23:19,635 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-25 13:23:19,635 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-25 13:23:19,635 - wechat-deepseek - INFO - ==============================
+2025-03-25 13:23:19,807 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-25 13:23:20,513 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-25 13:23:20,513 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-25 13:23:20,515 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-25 13:23:20,515 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-25 13:23:21,390 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-25 13:23:32,579 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-26 01:06:33,538 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:06:33,538 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:06:33,538 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:06:33,538 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:06:33,539 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:06:33,663 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:06:34,311 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:06:34,311 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:06:34,312 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:06:34,313 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:06:35,186 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 01:06:41,780 - wechat-deepseek - INFO - 收到退出信号，正在关闭服务...
+2025-03-26 01:07:01,134 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:07:01,135 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:07:01,135 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:07:01,136 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:07:01,136 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:07:01,136 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:07:01,137 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:07:01,137 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:07:01,137 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:07:01,137 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:07:01,286 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:07:02,011 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:07:02,011 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:07:02,012 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:07:02,012 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:07:02,901 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 01:12:31,462 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:12:31,462 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:12:31,462 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:12:31,463 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:12:31,464 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:12:31,601 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:12:32,286 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:12:32,286 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:12:32,287 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:12:32,288 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:21:02,344 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:21:02,344 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:21:02,345 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:21:02,346 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:21:02,346 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:21:02,495 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:21:03,146 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:21:03,147 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:21:03,148 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:21:03,149 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:21:04,020 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 01:21:29,936 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:21:29,936 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:21:29,936 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:21:29,936 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:21:29,937 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:21:30,095 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:21:30,766 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:21:30,766 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:21:30,768 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:21:30,768 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:21:31,644 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 01:49:54,261 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:49:54,261 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:49:54,261 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:49:54,261 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:49:54,262 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:49:54,408 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:49:55,021 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:49:55,021 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:49:55,022 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:49:55,022 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:49:55,883 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 01:50:02,235 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 01:50:02,235 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 01:50:02,235 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 01:50:02,235 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 01:50:02,235 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 01:50:02,236 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 01:50:02,236 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 01:50:02,236 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 01:50:02,236 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 01:50:02,236 - wechat-deepseek - INFO - ==============================
+2025-03-26 01:50:02,522 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 01:50:03,935 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 01:50:03,935 - wechat-deepseek - INFO - 微信客服消息接口重新初始化: AppID=wx05092f58034ae87a, 已启用=True
+2025-03-26 01:50:03,936 - wechat-deepseek - INFO - 微信客服消息轮询器已启动
+2025-03-26 01:50:03,936 - wechat-deepseek - INFO - 启动微信公众号服务...
+2025-03-26 01:50:04,807 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:18:19,099 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:18:19,099 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:18:19,099 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:18:19,099 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:18:19,100 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:18:19,254 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:18:19,860 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:18:20,728 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:18:29,622 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:18:29,623 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:18:29,623 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:18:29,623 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:18:29,623 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:18:29,624 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:18:29,624 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:18:29,624 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:18:29,624 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:18:29,624 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:18:29,770 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:18:30,454 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:18:31,320 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:18:37,187 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:18:37,187 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:18:37,187 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:18:37,187 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:18:37,188 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:18:37,315 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:18:37,922 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:18:38,794 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:18:51,078 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:18:51,078 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:18:51,078 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:18:51,078 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:18:51,079 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:18:51,079 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:18:51,079 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:18:51,079 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:18:51,079 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:18:51,080 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:18:51,193 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:18:51,833 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:18:52,705 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:21:40,832 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:21:40,832 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:21:40,833 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:21:40,834 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:21:40,953 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:21:41,595 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:21:42,467 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:24:05,106 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:24:05,106 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:24:05,106 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:24:05,107 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:24:05,108 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:24:05,223 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:24:05,833 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:24:06,696 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:28:15,209 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:16,862 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:17,468 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:20,864 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:21,673 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:21,828 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:21,972 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:22,127 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:22,279 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:22,423 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:28:22,566 - wechat-deepseek - INFO - 控制台窗口被关闭，程序将在后台继续运行...
+2025-03-26 02:30:10,619 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:30:10,619 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:30:10,619 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:30:10,619 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:30:10,621 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:30:10,621 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:30:10,621 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:30:10,621 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:30:10,621 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:30:10,622 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:30:10,737 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:30:11,438 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:30:12,314 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:30:21,420 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:30:21,421 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:30:21,422 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:30:21,422 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:30:21,422 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:30:21,544 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:30:22,172 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:30:23,045 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 02:47:49,796 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 02:47:49,796 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 02:47:49,797 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 02:47:49,797 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 02:47:49,797 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 02:47:49,797 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 02:47:49,797 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 02:47:49,798 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 02:47:49,798 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 02:47:49,798 - wechat-deepseek - INFO - ==============================
+2025-03-26 02:47:49,919 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 02:47:50,559 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 02:47:51,423 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 03:31:41,613 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 03:31:41,613 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 03:31:41,613 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 03:31:41,613 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 03:31:41,614 - wechat-deepseek - INFO - ==============================
+2025-03-26 03:31:41,728 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 03:31:42,494 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 03:31:43,359 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 03:41:50,914 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 03:41:51,002 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 03:41:51,512 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 03:41:51,637 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 03:41:51,637 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 03:41:52,651 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 03:41:52,651 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 03:41:52,651 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 03:41:52,651 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 03:41:52,652 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 03:41:52,652 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 03:41:52,652 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 03:41:52,652 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 03:41:52,652 - wechat-deepseek - INFO - ==============================
+2025-03-26 03:41:52,760 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 03:41:53,379 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 03:42:01,525 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 03:42:01,612 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 03:42:02,123 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 03:42:02,274 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 03:42:02,274 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 03:42:03,275 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 03:42:03,275 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 03:42:03,275 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 03:42:03,275 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 03:42:03,276 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 03:42:03,276 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 03:42:03,276 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 03:42:03,276 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 03:42:03,276 - wechat-deepseek - INFO - ==============================
+2025-03-26 03:42:03,386 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 03:42:04,066 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 03:42:04,936 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 05:12:45,977 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 05:12:46,080 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 05:12:46,581 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 05:12:46,759 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 05:12:46,759 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 05:12:47,775 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 05:12:47,775 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 05:12:47,775 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 05:12:47,775 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 05:12:47,776 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 05:12:47,776 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 05:12:47,776 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 05:12:47,776 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 05:12:47,776 - wechat-deepseek - INFO - ==============================
+2025-03-26 05:12:47,896 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 05:12:47,897 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 05:12:47,897 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 05:12:47,897 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 05:12:48,557 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 05:12:49,421 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 05:13:03,253 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 05:13:03,345 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 05:13:03,846 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 05:13:04,013 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 05:13:04,013 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 05:13:05,026 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 05:13:05,026 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 05:13:05,026 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 05:13:05,026 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 05:13:05,027 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 05:13:05,027 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 05:13:05,027 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 05:13:05,027 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 05:13:05,027 - wechat-deepseek - INFO - ==============================
+2025-03-26 05:13:05,155 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 05:13:05,155 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 05:13:05,156 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 05:13:05,156 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 05:13:05,795 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 05:13:06,656 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 05:30:21,587 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 05:30:21,688 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 05:30:22,193 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 05:30:22,365 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 05:30:22,365 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 05:30:23,377 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 05:30:23,377 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 05:30:23,377 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 05:30:23,378 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 05:30:23,378 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 05:30:23,378 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 05:30:23,378 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 05:30:23,378 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 05:30:23,379 - wechat-deepseek - INFO - ==============================
+2025-03-26 05:30:23,493 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 05:30:23,494 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 05:30:23,494 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 05:30:23,495 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 05:30:24,208 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 05:30:25,075 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 05:34:07,067 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 05:34:07,164 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 05:34:07,676 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 05:34:07,813 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 05:34:07,813 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 05:34:08,816 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 05:34:08,816 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 05:34:08,816 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 05:34:08,817 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 05:34:08,817 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 05:34:08,817 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 05:34:08,817 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 05:34:08,817 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 05:34:08,818 - wechat-deepseek - INFO - ==============================
+2025-03-26 05:34:08,928 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 05:34:08,929 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 05:34:08,929 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 05:34:08,929 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 05:34:09,535 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 05:34:10,404 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 05:43:28,696 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 05:43:28,762 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 05:43:29,276 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 05:43:29,529 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 05:43:29,529 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 05:43:30,538 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 05:43:30,538 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 05:43:30,538 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 05:43:30,538 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 05:43:30,539 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 05:43:30,539 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 05:43:30,539 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 05:43:30,539 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 05:43:30,539 - wechat-deepseek - INFO - ==============================
+2025-03-26 05:43:30,622 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 05:43:30,623 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 05:43:30,623 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 05:43:30,623 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 05:43:31,094 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 05:43:31,106 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-26 07:47:58,637 - wechat-deepseek - INFO - 日志初始化完成，级别: 20, 目录: logs
+2025-03-26 07:47:58,738 - wechat-deepseek - INFO - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-26 07:47:59,241 - wechat-deepseek - INFO - 托盘图标已启动，应该可见
+2025-03-26 07:47:59,406 - wechat-deepseek - INFO - 托盘图标引用: 已保存
+2025-03-26 07:47:59,406 - wechat-deepseek - INFO - 从可执行文件启动，等待托盘图标初始化...
+2025-03-26 07:48:00,421 - wechat-deepseek - INFO - ====== 微信公众号配置信息 ======
+2025-03-26 07:48:00,421 - wechat-deepseek - INFO - 频道类型: wechat_mp_service
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 微信Token: 已配置
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 微信AppID: wx05092f58034ae87a
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 微信AppSecret: 已配置
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 微信AesKey: 已配置
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 服务地址: 0.0.0.0:80
+2025-03-26 07:48:00,422 - wechat-deepseek - INFO - 认证模式: compatible
+2025-03-26 07:48:00,423 - wechat-deepseek - INFO - ==============================
+2025-03-26 07:48:00,537 - wechat-deepseek - INFO - 微信公众号配置: AppID长度=18, AppSecret长度=32
+2025-03-26 07:48:00,538 - wechat-deepseek - INFO - 微信客服消息轮询器线程已启动
+2025-03-26 07:48:00,538 - wechat-deepseek - INFO - 微信客服消息轮询器线程已创建: WechatMessagePoller
+2025-03-26 07:48:00,539 - wechat-deepseek - INFO - 微信客服消息轮询器已自动启动
+2025-03-26 07:48:01,163 - wechat-deepseek - INFO - 机器人初始化，人设描述已配置，长度: 51
+2025-03-26 07:48:01,194 - wechat-deepseek - INFO - 微信公众号服务启动在 0.0.0.0:80
+2025-03-27 10:02:00,854 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:00,863 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:00,864 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,864 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,924 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:00,929 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:00,931 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,931 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,939 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:01,441 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:02,532 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:02,532 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:02,532 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:02,533 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:02,533 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:02,533 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:02:03,073 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:02:03,073 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:02:03,073 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:02:03,074 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:02:10,617 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:10,624 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:10,625 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,625 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,681 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,695 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:11,197 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:11,207 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:11,207 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:11,208 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:11,269 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:11,269 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:11,271 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:12,276 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:12,276 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:12,276 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:12,277 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:12,277 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:12,277 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:02:12,732 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:02:12,732 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:02:12,733 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:02:12,757 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:02:12,757 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:02:12,758 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:02:12,758 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:02:19,831 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:19,837 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:19,838 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,838 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,891 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:19,895 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:19,896 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,896 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,904 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:20,413 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:20,421 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:20,422 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:20,422 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:21,512 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:21,512 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:21,512 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:21,513 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:21,513 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:21,513 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:03:46,314 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:03:46,322 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,323 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,323 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,388 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,409 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:03:46,912 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:03:47,983 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:03:47,984 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:03:47,984 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:03:48,394 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:03:48,395 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:03:48,395 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:03:48,406 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:03:48,406 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:03:48,406 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:03:48,407 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:30:16,488 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,557 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,570 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:30:17,085 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:30:18,171 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:30:18,173 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:30:18,173 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:30:18,604 - wechat-deepseek - INFO - [bot.py:31] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:30:18,604 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:30:18,605 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:30:18,622 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:30:18,622 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:30:18,622 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:30:18,623 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-28 08:43:48,192 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-28 08:43:48,208 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-28 08:43:48,209 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,209 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,287 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-28 08:43:48,294 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-28 08:43:48,294 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,295 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,303 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-28 08:43:48,807 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-28 08:43:48,820 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-28 08:43:48,820 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,820 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-28 08:43:48,998 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-28 08:43:49,000 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-28 08:43:49,000 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-28 08:43:50,005 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-28 08:43:50,005 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-28 08:43:50,005 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-28 08:43:50,006 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-28 08:43:50,006 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-28 08:43:50,006 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-28 08:43:50,920 - wechat-deepseek - INFO - [bot.py:31] - 机器人初始化，人设描述已配置，长度: 180
+2025-03-28 08:43:50,920 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-28 08:43:50,920 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-28 08:43:51,830 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-28 08:43:51,830 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-28 08:43:51,830 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-28 08:43:51,830 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动

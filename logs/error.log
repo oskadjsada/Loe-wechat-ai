@@ -1,0 +1,2 @@
+2025-03-25 05:28:23,203 - wechat-deepseek - ERROR - API Key未设置，请在config.json中配置open_ai_api_key
+2025-03-25 05:28:23,205 - wechat-deepseek - ERROR - 微信Token未设置，请在config.json中配置wechat_mp_token

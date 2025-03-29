@@ -1,0 +1,138 @@
+2025-03-27 10:02:00,854 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:00,863 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:00,864 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,864 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,924 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:00,929 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:00,931 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,931 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:00,939 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:01,441 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:01,449 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:01,518 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:02,532 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:02,532 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:02,532 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:02,533 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:02,533 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:02,533 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:02:03,060 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:02:03,073 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:02:03,073 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:02:03,073 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:02:03,074 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:02:10,617 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:10,624 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:10,625 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,625 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,681 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,686 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:10,695 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:11,197 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:11,207 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:11,207 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:11,208 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:11,269 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:11,269 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:11,271 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:12,276 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:12,276 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:12,276 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:12,277 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:12,277 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:12,277 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:02:12,732 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:02:12,732 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:02:12,733 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:02:12,757 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:02:12,757 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:02:12,758 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:02:12,758 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:02:19,831 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:02:19,837 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:19,838 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,838 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,891 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:02:19,895 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:19,896 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,896 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:19,904 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:02:20,413 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:02:20,421 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:20,422 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:20,422 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:02:20,495 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:02:21,512 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:02:21,512 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:02:21,512 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:02:21,513 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:02:21,513 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:02:21,513 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:03:46,314 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:03:46,322 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,323 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,323 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,388 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,395 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,409 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:03:46,912 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,921 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:03:46,977 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:03:47,983 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:03:47,983 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:03:47,984 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:03:47,984 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:03:48,394 - wechat-deepseek - INFO - [bot.py:27] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:03:48,395 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:03:48,395 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:03:48,406 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:03:48,406 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:03:48,406 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:03:48,407 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
+2025-03-27 10:30:16,488 - wechat-deepseek - INFO - [log.py:149] - 日志初始化完成，级别: DEBUG, 目录: logs
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,497 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,557 - wechat-deepseek - DEBUG - [app_icons.py:168] - 窗口图标设置成功
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,563 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:16,570 - wechat-deepseek - INFO - [app_icons.py:196] - 托盘图标已保存到: C:\Users\Administrator\Desktop\wehcat\app_icon.ico
+2025-03-27 10:30:17,085 - wechat-deepseek - INFO - [app_icons.py:228] - 托盘图标已启动，应该可见
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:46] - 当前工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:47] - 图标路径: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:17,095 - wechat-deepseek - DEBUG - [app_icons.py:51] - 从文件加载图标: C:\Users\Administrator\Desktop\wehcat\b_2c9004e0db255943ebd53561315853a5.jpg
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app_icons.py:118] - 桌面快捷方式已创建/更新，工作目录: C:\Users\Administrator\Desktop\wehcat
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app.py:95] - 托盘图标初始化: 成功
+2025-03-27 10:30:17,163 - wechat-deepseek - DEBUG - [app.py:99] - 从可执行文件启动，等待托盘图标初始化...
+2025-03-27 10:30:18,171 - wechat-deepseek - INFO - [app.py:107] - ======== 微信AI助手服务启动 ========
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:108] - 服务地址: 0.0.0.0:80
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:109] - 认证方式: plain
+2025-03-27 10:30:18,172 - wechat-deepseek - DEBUG - [app.py:110] - API基础URL: https://dashscope.aliyuncs.com/compatible-mode/v1
+2025-03-27 10:30:18,173 - wechat-deepseek - INFO - [app.py:111] - 使用模型: deepseek-r1
+2025-03-27 10:30:18,173 - wechat-deepseek - INFO - [app.py:112] - ====================================
+2025-03-27 10:30:18,604 - wechat-deepseek - INFO - [bot.py:31] - 机器人初始化，人设描述已配置，长度: 528
+2025-03-27 10:30:18,604 - wechat-deepseek - INFO - [wechat_mp_channel.py:185] - 微信公众号配置 - 认证模式: plain, IP: 0.0.0.0, 端口: 80
+2025-03-27 10:30:18,605 - wechat-deepseek - INFO - [wechat_mp_channel.py:186] - 微信公众号认证信息 - Token设置: 已设置, AppID: wx05092f58034ae87a
+2025-03-27 10:30:18,622 - wechat-deepseek - INFO - [wechat_mp_channel.py:198] - 微信公众号服务启动，监听地址: 0.0.0.0:80
+2025-03-27 10:30:18,622 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:199] - 认证模式: plain
+2025-03-27 10:30:18,622 - wechat-deepseek - DEBUG - [wechat_mp_channel.py:200] - Token配置: wdks...
+2025-03-27 10:30:18,623 - wechat-deepseek - INFO - [wechat_mp_channel.py:207] - 微信公众号服务器线程已启动
